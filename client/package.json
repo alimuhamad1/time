@@ -1,21 +1,21 @@
 {
-  "name": "sti-frontend",
+  "name": "client",
   "version": "1.0.0",
-  "description": "STI Frontend App",
+  "description": "Client",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miwashiab/sti-frontend.git"
+    "url": "https://github.com/alimuhamad1/time"
   },
   "author": "Mikael Wallin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/miwashiab/sti-frontend/issues"
+    "url": "https://github.com/alimuhamad1/time"
   },
-  "homepage": "https://github.com/miwashiab/sti-frontend#readme",
+  "homepage": "https://github.com/alimuhamad1/time",
   "dependencies": {
     "express": "^4.17.3",
     "healthcheck": "^0.1.3",
